@@ -1,4 +1,5 @@
 Among the list of files provided from the zip, there are 7 files that need to be used for making the tidy data: 
+
   a: test/subject_test.txt(subject as number for 2947 observation) 
   b: test/X_test.txt(type of measurement for 2946 observatino x 561 measurement[features]) 
   c: test/y_test.txt(type of activity as number for 2947 observation) 
@@ -19,4 +20,5 @@ In order to arrive into a tidy date, the following steps should be taken:
 - Gyro is replaced by Gyroscope
 - prefix f is replaced by frequency
 - Mag is replaced by Magnitude- BodyBody is replaced by Body
+
 6) create aggregate of mean of data extracted by 4)  7) create tidydata.txg
