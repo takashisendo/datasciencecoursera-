@@ -1,18 +1,18 @@
 Among the list of files provided from the zip, there are 7 files that need to be used for making the tidy data: 
 
-  a: test/subject_test.txt(subject as number for 2947 observation) 
+  - a: test/subject_test.txt(subject as number for 2947 observation) 
   
-  b: test/X_test.txt(type of measurement for 2946 observatino x 561 measurement[features]) 
+  - b: test/X_test.txt(type of measurement for 2946 observatino x 561 measurement[features]) 
   
-  c: test/y_test.txt(type of activity as number for 2947 observation) 
+  - c: test/y_test.txt(type of activity as number for 2947 observation) 
   
-  d: train/subject_train.txt(subject as number for 7352 observation) 
+  - d: train/subject_train.txt(subject as number for 7352 observation) 
   
-  e: train/X_train.txt(type of measurement for 7352 observatino x 561 measurement[features]) 
+  - e: train/X_train.txt(type of measurement for 7352 observatino x 561 measurement[features]) 
   
-  f: train/y_train.txt(type of activity as number for 7352 observation)  
-  
-  g: features.txt(describing the name of mesurement)
+  - f: train/y_train.txt(type of activity as number for 7352 observation)   
+  
+  - g: features.txt(describing the name of mesurement)
 
 In order to arrive into a tidy date, the following steps should be taken:  
 
